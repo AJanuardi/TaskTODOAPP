@@ -12,3 +12,17 @@ D:\Users\bsi50130\Desktop\TODO\obj\Debug\netcoreapp3.0\TODO.AssemblyInfo.cs
 D:\Users\bsi50130\Desktop\TODO\obj\Debug\netcoreapp3.0\TODO.csproj.CopyComplete
 D:\Users\bsi50130\Desktop\TODO\obj\Debug\netcoreapp3.0\TODO.dll
 D:\Users\bsi50130\Desktop\TODO\obj\Debug\netcoreapp3.0\TODO.pdb
+D:\Users\bsi50130\Desktop\TaskTODOAPP\TODO\bin\Debug\netcoreapp3.0\TODO.exe
+D:\Users\bsi50130\Desktop\TaskTODOAPP\TODO\bin\Debug\netcoreapp3.0\TODO.deps.json
+D:\Users\bsi50130\Desktop\TaskTODOAPP\TODO\bin\Debug\netcoreapp3.0\TODO.runtimeconfig.json
+D:\Users\bsi50130\Desktop\TaskTODOAPP\TODO\bin\Debug\netcoreapp3.0\TODO.runtimeconfig.dev.json
+D:\Users\bsi50130\Desktop\TaskTODOAPP\TODO\bin\Debug\netcoreapp3.0\TODO.dll
+D:\Users\bsi50130\Desktop\TaskTODOAPP\TODO\bin\Debug\netcoreapp3.0\TODO.pdb
+D:\Users\bsi50130\Desktop\TaskTODOAPP\TODO\bin\Debug\netcoreapp3.0\McMaster.Extensions.CommandLineUtils.dll
+D:\Users\bsi50130\Desktop\TaskTODOAPP\TODO\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+D:\Users\bsi50130\Desktop\TaskTODOAPP\TODO\obj\Debug\netcoreapp3.0\TODO.csprojAssemblyReference.cache
+D:\Users\bsi50130\Desktop\TaskTODOAPP\TODO\obj\Debug\netcoreapp3.0\TODO.AssemblyInfoInputs.cache
+D:\Users\bsi50130\Desktop\TaskTODOAPP\TODO\obj\Debug\netcoreapp3.0\TODO.AssemblyInfo.cs
+D:\Users\bsi50130\Desktop\TaskTODOAPP\TODO\obj\Debug\netcoreapp3.0\TODO.csproj.CopyComplete
+D:\Users\bsi50130\Desktop\TaskTODOAPP\TODO\obj\Debug\netcoreapp3.0\TODO.dll
+D:\Users\bsi50130\Desktop\TaskTODOAPP\TODO\obj\Debug\netcoreapp3.0\TODO.pdb

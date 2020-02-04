@@ -16,3 +16,15 @@ Serilog.Core.Pipeline.SilentLogger
 HTTP GET /todo responded 500 in 1.5336 ms
 HTTP POST /user/login responded 200 in 15.5084 ms
 HTTP POST /user/login responded 200 in 209.40300000000002 ms
+HTTP POST /user/login responded 200 in 923.2735 ms
+HTTP GET /todo responded 200 in 212.4521 ms
+HTTP POST /todo responded 405 in 3.8196000000000003 ms
+HTTP GET /todo responded 200 in 19.027900000000002 ms
+Serilog.Core.Pipeline.SilentLogger
+HTTP POST /todo/add responded 500 in 144.82330000000002 ms
+HTTP GET /todo responded 200 in 8.0276 ms
+HTTP GET /todo responded 200 in 9.3458 ms
+Serilog.Core.Pipeline.SilentLogger
+HTTP POST /todo/add responded 500 in 14.152600000000001 ms
+Serilog.Core.Pipeline.SilentLogger
+HTTP POST /todo/add responded 500 in 19.3392 ms

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\bsi50130\\Desktop\\TODODATABASE\\TODODATABASE.csproj": {}
+    "D:\\Users\\bsi50130\\Desktop\\TaskTODOAPP\\TODODATABASE\\TODODATABASE.csproj": {}
   },
   "projects": {
-    "D:\\Users\\bsi50130\\Desktop\\TODODATABASE\\TODODATABASE.csproj": {
+    "D:\\Users\\bsi50130\\Desktop\\TaskTODOAPP\\TODODATABASE\\TODODATABASE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\bsi50130\\Desktop\\TODODATABASE\\TODODATABASE.csproj",
+        "projectUniqueName": "D:\\Users\\bsi50130\\Desktop\\TaskTODOAPP\\TODODATABASE\\TODODATABASE.csproj",
         "projectName": "TODODATABASE",
-        "projectPath": "D:\\Users\\bsi50130\\Desktop\\TODODATABASE\\TODODATABASE.csproj",
+        "projectPath": "D:\\Users\\bsi50130\\Desktop\\TaskTODOAPP\\TODODATABASE\\TODODATABASE.csproj",
         "packagesPath": "D:\\Users\\bsi50130\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\bsi50130\\Desktop\\TODODATABASE\\obj\\",
+        "outputPath": "D:\\Users\\bsi50130\\Desktop\\TaskTODOAPP\\TODODATABASE\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "D:\\Users\\bsi50130\\AppData\\Roaming\\NuGet\\NuGet.Config"

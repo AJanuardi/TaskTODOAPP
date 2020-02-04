@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\bsi50130\\Desktop\\TODO\\TODO.csproj": {}
+    "D:\\Users\\bsi50130\\Desktop\\TaskTODOAPP\\TODO\\TODO.csproj": {}
   },
   "projects": {
-    "D:\\Users\\bsi50130\\Desktop\\TODO\\TODO.csproj": {
+    "D:\\Users\\bsi50130\\Desktop\\TaskTODOAPP\\TODO\\TODO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\bsi50130\\Desktop\\TODO\\TODO.csproj",
+        "projectUniqueName": "D:\\Users\\bsi50130\\Desktop\\TaskTODOAPP\\TODO\\TODO.csproj",
         "projectName": "TODO",
-        "projectPath": "D:\\Users\\bsi50130\\Desktop\\TODO\\TODO.csproj",
+        "projectPath": "D:\\Users\\bsi50130\\Desktop\\TaskTODOAPP\\TODO\\TODO.csproj",
         "packagesPath": "D:\\Users\\bsi50130\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\bsi50130\\Desktop\\TODO\\obj\\",
+        "outputPath": "D:\\Users\\bsi50130\\Desktop\\TaskTODOAPP\\TODO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "D:\\Users\\bsi50130\\AppData\\Roaming\\NuGet\\NuGet.Config"
