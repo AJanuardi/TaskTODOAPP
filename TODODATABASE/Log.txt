@@ -1,0 +1,18 @@
+HTTP POST /user/login responded 200 in 1653.6081000000001 ms
+Serilog.Core.Pipeline.SilentLogger
+HTTP DELETE /todo/clear responded 500 in 44.6652 ms
+HTTP DELETE /todo/clear responded 200 in 1188.6792 ms
+HTTP POST /user/register responded 200 in 1215.6895 ms
+HTTP POST /user/login responded 200 in 76.9071 ms
+HTTP POST /todo responded 405 in 1.9039000000000001 ms
+HTTP GET /todo responded 200 in 104.76360000000001 ms
+HTTP GET /todo responded 200 in 11.3908 ms
+HTTP GET /todo responded 200 in 10.9079 ms
+HTTP POST /todo responded 405 in 0.6 ms
+HTTP GET /todo responded 200 in 11.913400000000001 ms
+HTTP GET /todo responded 200 in 12.282 ms
+HTTP GET /todo responded 200 in 8.5725 ms
+Serilog.Core.Pipeline.SilentLogger
+HTTP GET /todo responded 500 in 1.5336 ms
+HTTP POST /user/login responded 200 in 15.5084 ms
+HTTP POST /user/login responded 200 in 209.40300000000002 ms
